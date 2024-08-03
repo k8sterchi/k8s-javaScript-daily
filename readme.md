@@ -1,4 +1,9 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+﻿# Acknowledgements
+
+This repository is cloned from [Wes Bos's 30 Day JavaScript Challege](https://github.com/wesbos/JavaScript30). This collection of projects is based on Wes Bos’s code base and has been adapted for personal use. All credit goes to Wes Bos for the original content.
+
+
+![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
 
